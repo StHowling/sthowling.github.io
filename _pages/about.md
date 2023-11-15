@@ -17,42 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm a third-year Computer Science Master student at Shanghai Jiao Tong University, working with Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/) at [Advanced Network Laboratory (ANL)](https://anl.sjtu.edu.cn/). I obtained my Bachelor's degree of Computer Science also at SJTU in 2021, co-advised by Prof. Xiaofeng Gao and Prof., IEEE Fellow [Guihai Chen](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on Data Mining and Applied Machine Learning, especially for real-world applications, e.g., AI for Systems and Recommender Systems. My recent two projects aim at optimizing system efficiency and business operation of public cloud computing platforms via algorithms and big data toachieve better user experience and earn more profit economically. 
+
+Broadly, I am also interested in the robustness (e.g., learning with rare categories and Out-of-Distribution samples in real-world data) and fairness of ML and AI methods, as well as their implications on the economy and society. If possible, I'd also like to explore the application of LLM and data augmentation methods on tabular data that dominate the data mining problems.
+
+**I am looking for 24 fall PhD positions. Here are some materials about my background you may kindly read through:** 
+
+[[CV]](../pdf/CV_TianyaoShi.pdf) [[Graduate Transcript]](../pdf/Tianyao_Shi+Transcript+Graduate.pdf) [[Undergraduate Transcript]](../pdf/Tianyao_Shi+Transcript_Undergraduate.pdf) [[TOEFL (111)]](../pdf/TOEFL_Report.pdf) [[GRE (328)]](../pdf/GRE_score_report.pdf)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 I won Excellent Graduate Scholarship of SJTU, and obtained First-Class Graduate Grant of SJTU three years in a row. 
+- *2023.05*: &nbsp; I presented *Alioth* at IPDPS 2023, St. Petersburg, FL, USA. [[Photo]](../images/QAMB0083.JPG) 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud](https://arxiv.org/pdf/2307.08949.pdf). [**[Code]**](https://github.com/StHowling/Alioth) 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+&emsp;&emsp;**Tianyao Shi**, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, **IPDPS 2023**, pp.908-917.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[FROM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831). 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+&emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Yanrong Kang, Guihai Chen, **SIGIR 2021**, pp. 1177-1186.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[GCAN: A Group-Wise Collaborative Adversarial Networks for Item Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_23).
+
+&emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Xiang Li, Guihai Chen, **DASFAA 2021**, pp. 330-338.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* Excellent Graduate Scholarship of SJTU 
+- *2021 ~ 2023* First-Class Graduate Grant of SJTU
+- *2021.06* Outstanding Graduate of SJTU [[Certificate]](../images/Q20230417161501.jpg)
+- *2021.06* Excellent Bachelor's Thesis of SJTU 
+- *2020.10* No. 95 of LeetCode Cup Team Coding Contest (LCCUP’2020) (top 3.6% of 2575 teams) [[Result Screenshot]](../images/Q20230417161021.jpg)
+- *2018.05* Meritorious Winner of Mathematical Contest In Modeling (MCM) (top 9.7% of 26062 teams) [[Certificate]](../pdf/73043.pdf)
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2022.03 – 2022.09*, Teaching Assistant of [**Introduction to Computer Science (“Xuesen Challenge Program”)**](https://news.sjtu.edu.cn/mtjj/20220306/167909.html)
+- *2020.09 - 2020.12*, Teaching Assistant of [**Algorithm Design and Analysis (CS7310)**](http://anl.sjtu.edu.cn/gao-xf/resources/projectDesc/CS7310-2020/Project-Data-AnalyticJobScheduling.pdf/hehe)
+- *2019.09 - 2021.01*, Managing Assistant of Office of Instructional Operations Management in SJTU Academic Affairs Office
+
+# 📝 Academic Services
+- IEEE Student Member, ACM Student Member
+- External Reviewer of IEEE TNSE, IEEE TNSM, AAAI 2022, ICDM 2023
+
+# ⚽ Hobbies
+
+I have always been a soccer fan and Supporter of FC Barcelona since 2011. I was a refree of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
