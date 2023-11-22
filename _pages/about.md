@@ -25,7 +25,7 @@ Broadly, I am also interested in the robustness (e.g., learning with rare catego
 
 **I am looking for 24 fall PhD positions. Here are some materials about my background you may kindly read through:** 
 
-[[CV]](../pdf/CV_TianyaoShi.pdf) [[Graduate Transcript]](../pdf/Tianyao_Shi+Transcript+Graduate.pdf) [[Undergraduate Transcript]](../pdf/Tianyao_Shi+Transcript_Undergraduate.pdf) [[TOEFL (111)]](../pdf/TOEFL_Report.pdf) [[GRE (328)]](../pdf/GRE_score_report.pdf)
+[[CV]](../pdf/CV_TianyaoShi.pdf) [[Graduate Transcript]](../pdf/Tianyao_Shi+Transcript+Graduate.pdf) [[Undergraduate Transcript]](../pdf/Tianyao_Shi+Transcript_Undergraduate.pdf) [[TOEFL (111)]](../pdf/TOEFL_Report.pdf) [[GRE (328)]](../pdf/GRE_score_report.pdf) [[Research Summary]](../pdf/Personal_Research_BG.pdf)
 
 
 # 🔥 News
@@ -52,6 +52,8 @@ Broadly, I am also interested in the robustness (e.g., learning with rare catego
 - *2021.06* Outstanding Graduate of SJTU [[Certificate]](../images/Q20230417161501.jpg)
 - *2021.06* Excellent Bachelor's Thesis of SJTU 
 - *2020.10* No. 95 of LeetCode Cup Team Coding Contest (LCCUP’2020) (top 3.6% of 2575 teams) [[Result Screenshot]](../images/Q20230417161021.jpg)
+- *2018.12, 2020.12* B-Class Excellent Scholarship of SJTU (top 10%) [[2018 Certificate]](../images/IMG_20231119_222833.jpg) [[2020 Certificate]](../images/IMG_20231119_222812.jpg)
+- *2018.10* Excellent (a.k.a. "Three Good", “三好” in Chinese) Student of SJTU (top 7%) [[Certificate]](../images/IMG_20231119_222740.jpg)
 - *2018.05* Meritorious Winner of Mathematical Contest In Modeling (MCM) (top 9.7% of 26062 teams) [[Certificate]](../pdf/73043.pdf)
 
 <!-- # 📖 Educations
@@ -73,4 +75,4 @@ Broadly, I am also interested in the robustness (e.g., learning with rare catego
 
 # ⚽ Hobbies
 
-I have always been a soccer fan and Supporter of FC Barcelona since 2011. I was a refree of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
+I have always been a soccer fan and Supporter of FC Barcelona since 2011. I was a refree of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [certificate of appointment](../images/IMG_20231119_222610.jpg) and [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
