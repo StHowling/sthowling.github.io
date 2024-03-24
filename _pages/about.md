@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year Computer Science Master student at Shanghai Jiao Tong University, working with Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/) at [Advanced Network Laboratory (ANL)](https://anl.sjtu.edu.cn/). I obtained my Bachelor's degree of Computer Science also at SJTU in 2021, co-advised by Prof. Xiaofeng Gao and Prof., IEEE Fellow [Guihai Chen](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180).
+I will join Prof. [Yi Ding](https://y-ding.github.io/)'s group and become a PhD student at Purdue University in August 2024. I obtained my Master's degree in Electronic and Information Engineering in the Computer Science and Engineering Department at Shanghai Jiao Tong University in March 2024, advised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/) at [Advanced Network Laboratory (ANL)](https://anl.sjtu.edu.cn/). I obtained my Bachelor's degree of Computer Science also at SJTU in 2021, co-advised by Prof. Xiaofeng Gao and Prof., IEEE Fellow [Guihai Chen](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180).
 
 My research interest focuses on Data Mining and Applied Machine Learning, especially for real-world applications, e.g., AI for Systems and Recommender Systems. My recent two projects aim at optimizing system efficiency and business operation of public cloud computing platforms via algorithms and big data toachieve better user experience and earn more profit economically. 
 
-Broadly, I am also interested in the robustness (e.g., learning with rare categories and Out-of-Distribution samples in real-world data) and fairness of ML and AI methods, as well as their implications on the economy and society. If possible, I'd also like to explore the application of LLM and data augmentation methods on tabular data that dominate the data mining problems.
+<!-- ~~Broadly, I am also interested in the robustness (e.g., learning with rare categories and Out-of-Distribution samples in real-world data) and fairness of ML and AI methods, as well as their implications on the economy and society. If possible, I'd also like to explore the application of LLM and data augmentation methods on tabular data that dominate the data mining problems.~~ -->
 
 **I am looking for 24 fall PhD positions. Here are some materials about my background you may kindly read through:** 
 
@@ -29,6 +29,7 @@ Broadly, I am also interested in the robustness (e.g., learning with rare catego
 
 
 # 🔥 News
+- *2024.03*： &nbsp; I will join Prof. Yi Ding's group and become a PhD in ECE student at Purdue University in August 2024.
 - *2023.11*: &nbsp;🎉🎉 I won Excellent Graduate Scholarship of SJTU, and obtained First-Class Graduate Grant of SJTU three years in a row. 
 - *2023.05*: &nbsp; I presented *Alioth* at IPDPS 2023, St. Petersburg, FL, USA. [[Photo]](../images/QAMB0083.JPG) 
 
