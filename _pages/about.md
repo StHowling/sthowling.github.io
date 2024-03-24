@@ -30,7 +30,7 @@ My research interest focuses on Data Mining and Applied Machine Learning, especi
 
 
 # 🔥 News
-- *2024.03*： &nbsp; I will join Prof. Yi Ding's group and become a PhD in ECE student at Purdue University in August 2024.
+- *2024.03*: &nbsp; I will join Prof. Yi Ding's group and become a PhD in ECE student at Purdue University in August 2024.
 - *2023.11*: &nbsp;🎉🎉 I won Excellent Graduate Scholarship of SJTU, and obtained First-Class Graduate Grant of SJTU three years in a row. 
 - *2023.05*: &nbsp; I presented *Alioth* at IPDPS 2023, St. Petersburg, FL, USA. [[Photo]](../images/QAMB0083.JPG) 
 
