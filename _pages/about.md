@@ -23,9 +23,10 @@ My research interest focuses on Data Mining and Applied Machine Learning, especi
 
 <!-- ~~Broadly, I am also interested in the robustness (e.g., learning with rare categories and Out-of-Distribution samples in real-world data) and fairness of ML and AI methods, as well as their implications on the economy and society. If possible, I'd also like to explore the application of LLM and data augmentation methods on tabular data that dominate the data mining problems.~~ -->
 
-**I am looking for 24 fall PhD positions. Here are some materials about my background you may kindly read through:** 
+<!-- **I am looking for 24 fall PhD positions. Here are some materials about my background you may kindly read through:**  -->
 
-[[CV]](../pdf/CV_TianyaoShi.pdf) [[Graduate Transcript]](../pdf/Tianyao_Shi+Transcript+Graduate.pdf) [[Undergraduate Transcript]](../pdf/Tianyao_Shi+Transcript_Undergraduate.pdf) [[TOEFL (111)]](../pdf/TOEFL_Report.pdf) [[GRE (328)]](../pdf/GRE_score_report.pdf) [[Research Summary]](../pdf/Personal_Research_BG.pdf)
+[[CV]](../pdf/CV_202403.pdf) 
+<!-- [[Graduate Transcript]](../pdf/Tianyao_Shi+Transcript+Graduate.pdf) [[Undergraduate Transcript]](../pdf/Tianyao_Shi+Transcript_Undergraduate.pdf) [[TOEFL (111)]](../pdf/TOEFL_Report.pdf) [[GRE (328)]](../pdf/GRE_score_report.pdf) [[Research Summary]](../pdf/Personal_Research_BG.pdf) -->
 
 
 # 🔥 News
