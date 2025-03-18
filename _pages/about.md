@@ -21,25 +21,36 @@ I am currently a member of Prof. [Yi Ding](https://y-ding.github.io/)'s STYLE gr
 
 My research interest focuses on Suistainability of Computing, e.g., Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study. Two representative projects aimed at optimizing system efficiency and business operation of public cloud computing platforms via algorithms and big data toachieve better user experience and earn more profit economically. 
 
-<!-- ~~Broadly, I am also interested in the robustness (e.g., learning with rare categories and Out-of-Distribution samples in real-world data) and fairness of ML and AI methods, as well as their implications on the economy and society. If possible, I'd also like to explore the application of LLM and data augmentation methods on tabular data that dominate the data mining problems.~~ -->
 
-<!-- **I am looking for 24 fall PhD positions. Here are some materials about my background you may kindly read through:**  -->
+[[CV]](../pdf/Resume_TianyaoShi_v3.pdf) 
 
-[[CV]](../pdf/CV_202403.pdf) 
-<!-- [[Graduate Transcript]](../pdf/Tianyao_Shi+Transcript+Graduate.pdf) [[Undergraduate Transcript]](../pdf/Tianyao_Shi+Transcript_Undergraduate.pdf) [[TOEFL (111)]](../pdf/TOEFL_Report.pdf) [[GRE (328)]](../pdf/GRE_score_report.pdf) [[Research Summary]](../pdf/Personal_Research_BG.pdf) -->
 
 
 # 🔥 News
+- *2025.03*: &nbsp; I am certified to be a teaching assistant at Purdue by passing OEPT with a score of 50/55.
+- *2025.03*: &nbsp;🎉🎉 I received a $800 Research Award from Purdue’s Institute for a Sustainable Future (ISF).
+- *2025.01*: &nbsp; My paper *Predicting Enterprise Customers' ITBudgets for Cloud Services* is accpeted by DASFAA 2025 as a short paper.
 - *2024.08*: &nbsp; I attended NSF DESC workshop held at Purdue on Aug 20-21.
-- *2024.03*: &nbsp; I will join Prof. Yi Ding's group and become a PhD in ECE student at Purdue University in August 2024.
+<!-- - *2024.03*: &nbsp; I will join Prof. Yi Ding's group and become a PhD in ECE student at Purdue University in August 2024. -->
 - *2023.11*: &nbsp;🎉🎉 I won Excellent Graduate Scholarship of SJTU, and obtained First-Class Graduate Grant of SJTU three years in a row. 
-- *2023.05*: &nbsp; I presented *Alioth* at IPDPS 2023, St. Petersburg, FL, USA. [[Photo]](../images/QAMB0083.JPG) 
+<!-- - *2023.05*: &nbsp; I presented *Alioth* at IPDPS 2023, St. Petersburg, FL, USA. [[Photo]](../images/QAMB0083.JPG)  -->
+
+# Preprints
+
+[GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions](https://arxiv.org/pdf/2412.20322)
+&emsp;&emsp;**Tianyao Shi**, Yanran Wu, Sihang Liu, Yi Ding
 
 # 📝 Publications 
 
+[Predicting Enterprise Customers' ITBudgets for Cloud Services]
+&emsp;&emsp;**Tianyao Shi**, Yunlong Cheng, Zhipeng Bian, Xiaofeng Gao, Zhenli Sheng, Accpeted by **DASFAA 2025**.
+
+[Sustainable LLM Serving: Environmental Implications, Challenges, and Opportunities](https://ieeexplore.ieee.org/abstract/document/10765824)
+&emsp;&emsp;Yi Ding, **Tianyao Shi**, **IGSC 2024**, pp. 37-38.
+
 [Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud](https://arxiv.org/pdf/2307.08949.pdf). [**[Code]**](https://github.com/StHowling/Alioth) 
 
-&emsp;&emsp;**Tianyao Shi**, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, **IPDPS 2023**, pp.908-917.
+&emsp;&emsp;**Tianyao Shi**, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, **IPDPS 2023**, pp. 908-917.
 
 [FROM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831). 
 
@@ -73,7 +84,7 @@ My research interest focuses on Suistainability of Computing, e.g., Carbon-Effic
 - *2019.09 - 2021.01*, Managing Assistant of Office of Instructional Operations Management in SJTU Academic Affairs Office
 
 # 📝 Academic Services
-- IEEE Student Member, ACM Student Member
+- Reviewer of IEEE TPAMI
 - External Reviewer of IEEE TNSE, IEEE TNSM, AAAI 2022, ICDM 2023
 
 # ⚽ Hobbies
