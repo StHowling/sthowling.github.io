@@ -55,7 +55,7 @@ Predicting Enterprise Customers' ITBudgets for Cloud Services
 
 &emsp;&emsp;**Tianyao Shi**, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, **IPDPS 2023**, pp. 908-917.
 
-[FROM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831). 
+[FORM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831). 
 
 &emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Yanrong Kang, Guihai Chen, **SIGIR 2021**, pp. 1177-1186.
 
