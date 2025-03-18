@@ -64,6 +64,7 @@ Predicting Enterprise Customers' ITBudgets for Cloud Services
 &emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Xiang Li, Guihai Chen, **DASFAA 2021**, pp. 330-338.
 
 # 🎖 Honors and Awards
+- *2025.03* ISF Research Award of Purdue
 - *2023.11* Excellent Graduate Scholarship of SJTU 
 - *2021 ~ 2023* First-Class Graduate Grant of SJTU
 - *2021.06* Outstanding Graduate of SJTU [[Certificate]](../images/Q20230417161501.jpg)
