@@ -21,7 +21,7 @@ I am currently a member of Prof. [Yi Ding](https://y-ding.github.io/)'s STYLE gr
 
 I obtained my Master's degree in Electronic and Information Engineering from Shanghai Jiao Tong University in March 2024, advised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/); and my Bachelor's degree of Computer Science also at SJTU in 2021, co-advised by Prof. Xiaofeng Gao and Prof., IEEE Fellow [Guihai Chen](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180).
 
-My research interest focuses on Suistainability of Computing, e.g., Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study. Two representative projects aimed at optimizing system efficiency and business operation of public cloud computing platforms via algorithms and big data toachieve better user experience and earn more profit economically. 
+My research interest focuses on **Suistainability of Computing**, e.g., Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study. Two representative projects aimed at optimizing system efficiency and business operation of public cloud computing platforms via algorithms and big data toachieve better user experience and earn more profit economically. 
 
 
 [[CV]](../pdf/Resume_TianyaoShi_v3.pdf) 
@@ -29,13 +29,11 @@ My research interest focuses on Suistainability of Computing, e.g., Carbon-Effic
 
 
 # 🔥 News
+- *2025.06*: &nbsp; My ground-breaking paper *When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact* is accepted by HotCarbon'25. Will present it in July at Cambridge, MA.
 - *2025.03*: &nbsp; I am certified to be a teaching assistant at Purdue by passing OEPT with a score of 50/55.
 - *2025.03*: &nbsp;🎉🎉 I received a $800 Research Award from Purdue’s Institute for a Sustainable Future (ISF).
-- *2025.01*: &nbsp; My paper *Predicting Enterprise Customers' ITBudgets for Cloud Services* is accpeted by DASFAA 2025 as a short paper.
+- *2025.01*: &nbsp; My paper *Predicting Enterprise Customers' IT Budgets for Cloud Services* is accpeted by DASFAA 2025 as a short paper.
 - *2024.08*: &nbsp; I attended NSF DESC workshop held at Purdue on Aug 20-21.
-<!-- - *2024.03*: &nbsp; I will join Prof. Yi Ding's group and become a PhD in ECE student at Purdue University in August 2024. -->
-- *2023.11*: &nbsp;🎉🎉 I won Excellent Graduate Scholarship of SJTU, and obtained First-Class Graduate Grant of SJTU three years in a row. 
-<!-- - *2023.05*: &nbsp; I presented *Alioth* at IPDPS 2023, St. Petersburg, FL, USA. [[Photo]](../images/QAMB0083.JPG)  -->
 
 # Preprints
 
@@ -45,9 +43,13 @@ My research interest focuses on Suistainability of Computing, e.g., Carbon-Effic
 
 # 📝 Publications 
 
-Predicting Enterprise Customers' ITBudgets for Cloud Services
+[Sustainable LLM Serving: Environmental Implications, Challenges, and Opportunities](https://arxiv.org/abs/2506.20442)[**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
-&emsp;&emsp;**Tianyao Shi**, Yunlong Cheng, Zhipeng Bian, Xiaofeng Gao, Zhenli Sheng, Accpeted by **DASFAA 2025**.
+&emsp;&emsp; **Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, Accepted.
+
+Predicting Enterprise Customers' IT Budgets for Cloud Services
+
+&emsp;&emsp;**Tianyao Shi\***, Yunlong Cheng*, Xiuyuan Wei, Zhipeng Bian, Xiaofeng Gao, Zhenli Sheng, **DASFAA 2025**, Accepted.
 
 [Sustainable LLM Serving: Environmental Implications, Challenges, and Opportunities](https://ieeexplore.ieee.org/abstract/document/10765824)
 
@@ -75,14 +77,6 @@ Predicting Enterprise Customers' ITBudgets for Cloud Services
 - *2018.12, 2020.12* &nbsp; B-Class Excellent Scholarship of SJTU (top 10%) [[2018 Certificate]](../images/IMG_20231119_222833.jpg) [[2020 Certificate]](../images/IMG_20231119_222812.jpg)
 - *2018.10* &nbsp; Excellent (a.k.a. "Three Good", “三好” in Chinese) Student of SJTU (top 7%) [[Certificate]](../images/IMG_20231119_222740.jpg)
 - *2018.05* &nbsp; Meritorious Winner of Mathematical Contest In Modeling (MCM) (top 9.7% of 26062 teams) [[Certificate]](../pdf/73043.pdf)
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
 - *2022.03 – 2022.09*, Teaching Assistant of [**Introduction to Computer Science (“Xuesen Challenge Program”)**](https://news.sjtu.edu.cn/mtjj/20220306/167909.html)
