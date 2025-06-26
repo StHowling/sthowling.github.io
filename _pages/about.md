@@ -43,7 +43,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Carbon-E
 
 # 📝 Publications 
 
-[Sustainable LLM Serving: Environmental Implications, Challenges, and Opportunities](https://arxiv.org/abs/2506.20442)[**[Code]**](https://github.com/TianyaoShi/FABRIC) 
+[When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
 &emsp;&emsp; **Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, Accepted.
 
@@ -55,15 +55,15 @@ Predicting Enterprise Customers' IT Budgets for Cloud Services
 
 &emsp;&emsp;Yi Ding, **Tianyao Shi**, **IGSC 2024**, pp. 37-38.
 
-[Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud](https://arxiv.org/pdf/2307.08949.pdf). [**[Code]**](https://github.com/StHowling/Alioth) 
+[Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud](https://arxiv.org/pdf/2307.08949.pdf) [**[Code]**](https://github.com/StHowling/Alioth) 
 
 &emsp;&emsp;**Tianyao Shi**, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, **IPDPS 2023**, pp. 908-917.
 
-[FORM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831). 
+[FORM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831) 
 
 &emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Yanrong Kang, Guihai Chen, **SIGIR 2021**, pp. 1177-1186.
 
-[GCAN: A Group-Wise Collaborative Adversarial Networks for Item Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_23).
+[GCAN: A Group-Wise Collaborative Adversarial Networks for Item Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_23)
 
 &emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Xiang Li, Guihai Chen, **DASFAA 2021**, pp. 330-338.
 
