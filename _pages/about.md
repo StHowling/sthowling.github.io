@@ -21,7 +21,7 @@ I am currently a member of Prof. [Yi Ding](https://y-ding.github.io/)'s STYLE gr
 
 I obtained my Master's degree in Electronic and Information Engineering from Shanghai Jiao Tong University in March 2024, advised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/); and my Bachelor's degree of Computer Science also at SJTU in 2021, co-advised by Prof. Xiaofeng Gao and Prof., IEEE Fellow [Guihai Chen](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180).
 
-My research interest focuses on **Suistainability of Computing**, e.g., Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study. Two representative projects aimed at optimizing system efficiency and business operation of public cloud computing platforms via algorithms and big data toachieve better user experience and earn more profit economically. 
+My research interest focuses on **Suistainability of Computing**, e.g., Energy- and Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study. Two representative projects aimed at optimizing system efficiency and business operation of public cloud computing platforms. 
 
 
 [[CV]](../pdf/Resume_TianyaoShi_v3.pdf) 
@@ -29,13 +29,16 @@ My research interest focuses on **Suistainability of Computing**, e.g., Carbon-E
 
 
 # 🔥 News
-- *2025.06*: &nbsp; My ground-breaking paper *When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact* is accepted by HotCarbon'25. Will present it in July at Cambridge, MA.
+- *2025.06*: &nbsp; My ground-breaking paper *When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact* is accepted by HotCarbon'25. 
 - *2025.03*: &nbsp; I am certified to be a teaching assistant at Purdue by passing OEPT with a score of 50/55.
 - *2025.03*: &nbsp;🎉🎉 I received a $800 Research Award from Purdue’s Institute for a Sustainable Future (ISF).
 - *2025.01*: &nbsp; My paper *Predicting Enterprise Customers' IT Budgets for Cloud Services* is accpeted by DASFAA 2025 as a short paper.
 - *2024.08*: &nbsp; I attended NSF DESC workshop held at Purdue on Aug 20-21.
 
 # Preprints
+
+[Systematic Characterization of LLM Quantization: A Performance, Energy, and Quality Perspective](https://arxiv.org/pdf/2508.16712)
+&emsp;&emsp;**Tianyao Shi**, Yi Ding
 
 [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions](https://arxiv.org/pdf/2412.20322)
 
@@ -45,7 +48,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Carbon-E
 
 [When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
-&emsp;&emsp; **Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, Accepted.
+&emsp;&emsp;**Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40, July 2025.
 
 Predicting Enterprise Customers' IT Budgets for Cloud Services
 
