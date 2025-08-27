@@ -38,6 +38,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 # Preprints
 
 [Systematic Characterization of LLM Quantization: A Performance, Energy, and Quality Perspective](https://arxiv.org/pdf/2508.16712)
+
 &emsp;&emsp;**Tianyao Shi**, Yi Ding
 
 [GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions](https://arxiv.org/pdf/2412.20322)
@@ -48,7 +49,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 [When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
-&emsp;&emsp;**Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40, July 2025.
+&emsp;&emsp;**Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40.
 
 Predicting Enterprise Customers' IT Budgets for Cloud Services
 
