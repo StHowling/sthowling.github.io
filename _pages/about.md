@@ -37,21 +37,25 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 # Preprints
 
+[Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives](https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives)
+
+&emsp;&emsp;**Tianyao Shi**, Yanran Wu, Inez Hua, Yi Ding
+
 [Systematic Characterization of LLM Quantization: A Performance, Energy, and Quality Perspective](https://arxiv.org/pdf/2508.16712)
 
 &emsp;&emsp;**Tianyao Shi**, Yi Ding
 
-[GreenLLM: Disaggregating Large Language Model Serving on Heterogeneous GPUs for Lower Carbon Emissions](https://arxiv.org/pdf/2412.20322)
-
-&emsp;&emsp;**Tianyao Shi**, Yanran Wu, Sihang Liu, Yi Ding
-
 # 📝 Publications 
+
+[Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving](https://ieeexplore.ieee.org/abstract/document/11230830/) [Full-length preprint]((https://arxiv.org/pdf/2412.20322))
+
+&emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **IEEE CAL**, IEEE Computer Architecture Letters 24 (2), 369-372
 
 [When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
 &emsp;&emsp;**Tianyao Shi**, Ritbik Kumar, Inez Hua, Yiding, **HotCarbon 2025**, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40.
 
-Predicting Enterprise Customers' IT Budgets for Cloud Services
+[Predicting Enterprise Customers' IT Budgets for Cloud Services](https://dasfaa2025.github.io/paper/research/research_738_paper.pdf)
 
 &emsp;&emsp;**Tianyao Shi\***, Yunlong Cheng*, Xiuyuan Wei, Zhipeng Bian, Xiaofeng Gao, Zhenli Sheng, **DASFAA 2025**, Accepted.
 
@@ -78,8 +82,6 @@ Predicting Enterprise Customers' IT Budgets for Cloud Services
 - *2021.06* &nbsp; Outstanding Graduate of SJTU [[Certificate]](../images/Q20230417161501.jpg)
 - *2021.06* &nbsp; Excellent Bachelor's Thesis of SJTU 
 - *2020.10* &nbsp; No. 95 of LeetCode Cup Team Coding Contest (LCCUP’2020) (top 3.6% of 2575 teams) [[Result Screenshot]](../images/Q20230417161021.jpg)
-- *2018.12, 2020.12* &nbsp; B-Class Excellent Scholarship of SJTU (top 10%) [[2018 Certificate]](../images/IMG_20231119_222833.jpg) [[2020 Certificate]](../images/IMG_20231119_222812.jpg)
-- *2018.10* &nbsp; Excellent (a.k.a. "Three Good", “三好” in Chinese) Student of SJTU (top 7%) [[Certificate]](../images/IMG_20231119_222740.jpg)
 - *2018.05* &nbsp; Meritorious Winner of Mathematical Contest In Modeling (MCM) (top 9.7% of 26062 teams) [[Certificate]](../pdf/73043.pdf)
 
 # 💻 Work Experience
