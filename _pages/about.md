@@ -47,7 +47,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 # 📝 Publications 
 
-[Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving](https://ieeexplore.ieee.org/abstract/document/11230830/) [Full-length preprint]((https://arxiv.org/pdf/2412.20322))
+[Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving](https://ieeexplore.ieee.org/abstract/document/11230830/) [[*Full-length preprint*]]((https://arxiv.org/pdf/2412.20322))
 
 &emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **IEEE CAL**, IEEE Computer Architecture Letters 24 (2), 369-372
 
