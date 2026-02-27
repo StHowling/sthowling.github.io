@@ -48,7 +48,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 [Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving](https://ieeexplore.ieee.org/abstract/document/11230830/) [[*Full-length preprint*]]((https://arxiv.org/pdf/2412.20322))
 
-&emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **CAL 2025**, IEEE Computer Architecture Letters 24 (2), 369-372
+&emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **CAL 2025**, IEEE Computer Architecture Letters 24 (2), 369-372.
 
 [When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
@@ -90,4 +90,4 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 # ⚽ Hobbies
 
-I have always been a soccer fan and Supporter of FC Barcelona since 2011. I was a refree of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [certificate of appointment](../images/IMG_20231119_222610.jpg) and [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
+I have always been a soccer fan, as a life-long supporter of Taishan FC and a supporter of FC Barcelona since 2011. I was a refree of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [certificate of appointment](../images/IMG_20231119_222610.jpg) and [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
