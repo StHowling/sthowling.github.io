@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a member of Prof. [Yi Ding](https://y-ding.github.io/)'s STYLE group. I became a PhD student at Purdue University in August 2024. 
 
-I obtained my Master's degree in Electronic and Information Engineering from Shanghai Jiao Tong University in March 2024, advised by Prof. [Xiaofeng Gao](https://www.cs.sjtu.edu.cn/~gao-xf/); and my Bachelor's degree of Computer Science also at SJTU in 2021, co-advised by Prof. Xiaofeng Gao and Prof., IEEE Fellow [Guihai Chen](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180).
+I obtained my Bachelor's degree of Computer Science and Master's degree in Electronic and Information Engineering from Shanghai Jiao Tong University in June 2021 and March 2024, respectively.
 
 My research interest focuses on **Suistainability of Computing**, e.g., Energy- and Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study, and led a project aimed at optimizing system efficiency of public cloud computing platforms. 
 
@@ -48,7 +48,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 [Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving](https://ieeexplore.ieee.org/abstract/document/11230830/) [[*Full-length preprint*]]((https://arxiv.org/pdf/2412.20322))
 
-&emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **IEEE CAL**, IEEE Computer Architecture Letters 24 (2), 369-372
+&emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **CAL 2025**, IEEE Computer Architecture Letters 24 (2), 369-372
 
 [When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
 
