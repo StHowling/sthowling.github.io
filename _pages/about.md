@@ -39,7 +39,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[TL;DR by Gist.Science]</a>
+      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">ArXiv 2026</span>
@@ -73,7 +73,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[<em>Full-length preprint</em>]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[📑<em>Full-length preprint</em>]</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">CAL 2025</span>
@@ -83,7 +83,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2506.20442">When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</a> <a href="https://github.com/TianyaoShi/FABRIC"><strong>[Code]</strong></a>
+      <a href="https://arxiv.org/abs/2506.20442">When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</a> <a href="https://github.com/TianyaoShi/FABRIC"><strong>[🧑‍💻Code]</strong></a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">HotCarbon 2025</span>
@@ -103,7 +103,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/pdf/2307.08949.pdf">Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud</a> <a href="https://github.com/StHowling/Alioth"><strong>[Code]</strong></a>
+      <a href="https://arxiv.org/pdf/2307.08949.pdf">Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud</a> <a href="https://github.com/StHowling/Alioth"><strong>[🧑‍💻Code]</strong></a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">IPDPS 2023</span>
