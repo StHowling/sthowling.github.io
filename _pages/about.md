@@ -42,7 +42,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
       <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[TL;DR by Gist.Science]</a>
     </div>
     <div class="pub-info">
-      <span class="pub-venue-badge">ArXiv 2025</span>
+      <span class="pub-venue-badge">ArXiv 2026</span>
       <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yi Ding</span>
     </div>
   </div>
@@ -52,7 +52,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
       <a href="https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives">Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives</a>
     </div>
     <div class="pub-info">
-      <span class="pub-venue-badge">TechRxiv 2025</span>
+      <span class="pub-venue-badge">TechRxiv 2026</span>
       <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yanran Wu, Inez Hua, Yi Ding</span>
     </div>
   </div>
