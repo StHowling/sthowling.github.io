@@ -121,16 +121,19 @@ h1:before, .anchor:before {
     margin-bottom: 0.2rem;
 
     a {
-        color: inherit; // Use the standard text color instead of blue
-        text-decoration: none; // Remove base underline
-        border-bottom: none; // Catch variations of link underlines
-        box-shadow: none; // Catch variations of link underlines
-        transition: color 0.2s ease-in-out;
+        color: inherit;
+        text-decoration: underline; 
+        text-decoration-color: rgba(0, 0, 0, 0.15); /* Subtle, light underline for visibility */
+        text-decoration-thickness: 2px;
+        text-underline-offset: 3px;
+        border-bottom: none; 
+        box-shadow: none; 
+        transition: all 0.2s ease-in-out;
     }
 
     a:hover {
-        color: $info-color; // Turn theme blue on hover
-        text-decoration: none; 
+        color: $info-color;
+        text-decoration-color: $info-color; 
     }
 }
 .pub-info {

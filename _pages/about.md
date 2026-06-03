@@ -34,7 +34,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 - *2025.03*: &nbsp;🎉🎉 I received a $800 Research Award from Purdue’s Institute for a Sustainable Future (ISF).
 - *2024.08*: &nbsp; I attended NSF DESC workshop held at Purdue on Aug 20-21.
 
-# Preprints
+# 📝 Preprints
 
 <div class="pub-list">
   <div class="pub-item">
@@ -68,7 +68,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
   </div>
 </div>
 
-# 📝 Publications 
+# 📄 Publications 
 
 <div class="pub-list">
   <div class="pub-item">
