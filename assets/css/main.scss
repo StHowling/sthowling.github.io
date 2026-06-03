@@ -120,7 +120,8 @@ h1:before, .anchor:before {
     font-weight: bold;
     margin-bottom: 0.2rem;
 
-    a {
+    /* Main paper title */
+    a:first-child {
         color: inherit;
         text-decoration: underline; 
         text-decoration-color: rgba(0, 0, 0, 0.15); /* Subtle, light underline for visibility */
@@ -129,11 +130,33 @@ h1:before, .anchor:before {
         border-bottom: none; 
         box-shadow: none; 
         transition: all 0.2s ease-in-out;
+
+        &:hover {
+            color: $info-color;
+            text-decoration-color: $info-color; 
+        }
     }
 
-    a:hover {
-        color: $info-color;
-        text-decoration-color: $info-color; 
+    /* Supplementary material (e.g. [Code], [Preprint]) */
+    a:not(:first-child) {
+        font-weight: 500;
+        font-size: 0.9em;
+        color: $gray; /* Distinguish from the main title text */
+        text-decoration: none; /* No underline for supplementary links */
+        margin-left: 0.2rem;
+        border-bottom: none;
+        box-shadow: none;
+        transition: color 0.2s ease-in-out;
+
+        /* Normalize bold/italics inside these links so they don't visually overpower the title */
+        strong, em {
+            font-weight: 500;
+            font-style: normal;
+        }
+
+        &:hover {
+            color: $danger-color; /* Add a nice pop of color on hover */
+        }
     }
 }
 .pub-info {

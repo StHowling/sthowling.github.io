@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyao Shi (史 天尧)"
+  name             : "Tianyao Shi\n史 天尧"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Purdue University"
   location         : "West Lafayette, IN, USA"
