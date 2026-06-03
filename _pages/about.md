@@ -21,7 +21,7 @@ I am currently a member of Prof. [Yi Ding](https://y-ding.github.io/)'s STYLE gr
 
 I obtained my Bachelor's degree of Computer Science and Master's degree in Electronic and Information Engineering from Shanghai Jiao Tong University in June 2021 and March 2024, respectively.
 
-My research interest focuses on **Suistainability of Computing**, e.g., Energy- and Carbon-Efficient Data Center Operation and LLM Serving. I used to work on Data Mining and Recommender Systems during my Master's and Bachelor's study, and led a project aimed at optimizing system efficiency of public cloud computing platforms. 
+My research interest focuses on **Suistainability of Computing**, e.g., Energy- and (Beyond) Carbon-Efficient Data Center Operation and LLM Serving. I have been establishing the quantification model for evaluating the broader environmental impact of computing systems, i.e., **biodiversity loss**,  by integrating LCA methodology and ecological modeling into architectural / system design, performance evaluation, and optimization.
 
 
 [[CV]](../pdf/Resume_TianyaoShi_2602.pdf) 
@@ -35,6 +35,9 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 - *2024.08*: &nbsp; I attended NSF DESC workshop held at Purdue on Aug 20-21.
 
 # Preprints
+
+[BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving](https://arxiv.org/abs/2605.27480) [TL;DR by Gist.Science](https://gist.science/paper/2605.27480#gist)
+&emsp;&emsp;**Tianyao Shi**, Yi Ding
 
 [Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives](https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives)
 
@@ -80,12 +83,13 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 - *2018.05* &nbsp; Meritorious Winner of Mathematical Contest In Modeling (MCM) (top 9.7% of 26062 teams) [[Certificate]](../pdf/73043.pdf)
 
 # 💻 Work Experience
-- *2022.03 – 2022.09*, Teaching Assistant of [**Introduction to Computer Science (“Xuesen Challenge Program”)**](https://news.sjtu.edu.cn/mtjj/20220306/167909.html)
-- *2020.09 - 2020.12*, Teaching Assistant of [**Algorithm Design and Analysis (CS7310)**](http://anl.sjtu.edu.cn/gao-xf/resources/projectDesc/CS7310-2020/Project-Data-AnalyticJobScheduling.pdf/hehe)
+- *2026.01 - 2026.05*, Teaching Assistant of **ECE20875: Python for Data Science** at Purdue University
+- *2022.03 – 2022.09*, Teaching Assistant of [**Introduction to Computer Science (“Xuesen Challenge Program”)**](https://news.sjtu.edu.cn/mtjj/20220306/167909.html) at SJTU
+- *2020.09 - 2020.12*, Teaching Assistant of [**Algorithm Design and Analysis (CS7310)**](http://anl.sjtu.edu.cn/gao-xf/resources/projectDesc/CS7310-2020/Project-Data-AnalyticJobScheduling.pdf/hehe) at SJTU
 - *2019.09 - 2021.01*, Managing Assistant of Office of Instructional Operations Management in SJTU Academic Affairs Office
 
 # 📝 Academic Services
-- Reviewer of IEEE TPAMI
+- Reviewer of IEEE TPAMI, IEEE TII
 - External Reviewer of IEEE TNSE, IEEE TNSM, AAAI 2022, ICDM 2023
 
 # ⚽ Hobbies
