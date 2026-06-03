@@ -73,7 +73,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[[<em>Full-length preprint</em>]]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[<em>Full-length preprint</em>]</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">CAL 2025</span>
