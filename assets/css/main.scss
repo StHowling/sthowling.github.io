@@ -119,6 +119,19 @@ h1:before, .anchor:before {
 .pub-title {
     font-weight: bold;
     margin-bottom: 0.2rem;
+
+    a {
+        color: inherit; // Use the standard text color instead of blue
+        text-decoration: none; // Remove base underline
+        border-bottom: none; // Catch variations of link underlines
+        box-shadow: none; // Catch variations of link underlines
+        transition: color 0.2s ease-in-out;
+    }
+
+    a:hover {
+        color: $info-color; // Turn theme blue on hover
+        text-decoration: none; 
+    }
 }
 .pub-info {
     display: flex;
