@@ -107,3 +107,36 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Publication Section Custom Styles */
+.pub-list {
+    margin-bottom: 2em;
+}
+.pub-item {
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+}
+.pub-title {
+    font-weight: bold;
+    margin-bottom: 0.2rem;
+}
+.pub-info {
+    display: flex;
+    align-items: baseline;
+    margin-left: 1rem; /* Indentation instead of &emsp; */
+    margin-bottom: 0.5rem;
+}
+.pub-venue-badge {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    font-size: 0.85em;
+    font-weight: 700;
+    color: #fff;
+    background-color: $info-color;
+    border-radius: 4px;
+    margin-right: 0.5em;
+    white-space: nowrap;
+}
+.pub-authors-journal {
+    /* To push the rest of the text slightly */
+}

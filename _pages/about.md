@@ -36,42 +36,101 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 # Preprints
 
-[BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving](https://arxiv.org/abs/2605.27480) [TL;DR by Gist.Science](https://gist.science/paper/2605.27480#gist)
-&emsp;&emsp;**Tianyao Shi**, Yi Ding
+<div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[TL;DR by Gist.Science]</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">ArXiv 2025</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yi Ding</span>
+    </div>
+  </div>
 
-[Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives](https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives)
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives">Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">TechRxiv 2025</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yanran Wu, Inez Hua, Yi Ding</span>
+    </div>
+  </div>
 
-&emsp;&emsp;**Tianyao Shi**, Yanran Wu, Inez Hua, Yi Ding
-
-[Systematic Characterization of LLM Quantization: A Performance, Energy, and Quality Perspective](https://arxiv.org/pdf/2508.16712)
-
-&emsp;&emsp;**Tianyao Shi**, Yi Ding
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://arxiv.org/pdf/2508.16712">Systematic Characterization of LLM Quantization: A Performance, Energy, and Quality Perspective</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">ArXiv 2025</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yi Ding</span>
+    </div>
+  </div>
+</div>
 
 # 📝 Publications 
 
-[Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving](https://ieeexplore.ieee.org/abstract/document/11230830/) [[*Full-length preprint*]]((https://arxiv.org/pdf/2412.20322))
+<div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[[<em>Full-length preprint</em>]]</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">CAL 2025</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi*</strong>, Yanran Wu*, Sihang Liu, Yi Ding, IEEE Computer Architecture Letters 24 (2), 369-372.</span>
+    </div>
+  </div>
 
-&emsp;&emsp;**Tianyao Shi\***, Yanran Wu*, Sihang Liu, Yi Ding, **CAL 2025**, IEEE Computer Architecture Letters 24 (2), 369-372.
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2506.20442">When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</a> <a href="https://github.com/TianyaoShi/FABRIC"><strong>[Code]</strong></a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">HotCarbon 2025</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Ritbik Kumar, Inez Hua, Yi Ding, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40.</span>
+    </div>
+  </div>
 
-[When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact](https://arxiv.org/abs/2506.20442) [**[Code]**](https://github.com/TianyaoShi/FABRIC) 
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10765824">Sustainable LLM Serving: Environmental Implications, Challenges, and Opportunities</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">IGSC 2024</span>
+      <span class="pub-authors-journal">Yi Ding, <strong>Tianyao Shi</strong>, pp. 37-38.</span>
+    </div>
+  </div>
 
-&emsp;&emsp;**Tianyao Shi**, Ritbik Kumar, Inez Hua, Yi Ding, **HotCarbon 2025**, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40.
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://arxiv.org/pdf/2307.08949.pdf">Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud</a> <a href="https://github.com/StHowling/Alioth"><strong>[Code]</strong></a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">IPDPS 2023</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, pp. 908-917.</span>
+    </div>
+  </div>
 
-[Sustainable LLM Serving: Environmental Implications, Challenges, and Opportunities](https://ieeexplore.ieee.org/abstract/document/10765824)
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3404835.3462831">FORM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">SIGIR 2021</span>
+      <span class="pub-authors-journal">Xuehan Sun, <strong>Tianyao Shi</strong>, Xiaofeng Gao, Yanrong Kang, Guihai Chen, pp. 1177-1186.</span>
+    </div>
+  </div>
 
-&emsp;&emsp;Yi Ding, **Tianyao Shi**, **IGSC 2024**, pp. 37-38.
-
-[Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud](https://arxiv.org/pdf/2307.08949.pdf) [**[Code]**](https://github.com/StHowling/Alioth) 
-
-&emsp;&emsp;**Tianyao Shi**, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, **IPDPS 2023**, pp. 908-917.
-
-[FORM: Following the Online Regularized Meta-Leader for Cold-Start Recommendation](https://dl.acm.org/doi/abs/10.1145/3404835.3462831) 
-
-&emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Yanrong Kang, Guihai Chen, **SIGIR 2021**, pp. 1177-1186.
-
-[GCAN: A Group-Wise Collaborative Adversarial Networks for Item Recommendation](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_23)
-
-&emsp;&emsp;Xuehan Sun, **Tianyao Shi**, Xiaofeng Gao, Xiang Li, Guihai Chen, **DASFAA 2021**, pp. 330-338.
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-73200-4_23">GCAN: A Group-Wise Collaborative Adversarial Networks for Item Recommendation</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">DASFAA 2021</span>
+      <span class="pub-authors-journal">Xuehan Sun, <strong>Tianyao Shi</strong>, Xiaofeng Gao, Xiang Li, Guihai Chen, pp. 330-338.</span>
+    </div>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.03* &nbsp; ISF Research Award of Purdue
