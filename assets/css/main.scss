@@ -161,7 +161,9 @@ h1:before, .anchor:before {
 }
 .pub-info {
     display: flex;
-    align-items: baseline;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5em;
     margin-left: 1rem; /* Indentation instead of &emsp; */
     margin-bottom: 0.5rem;
 }
@@ -173,8 +175,8 @@ h1:before, .anchor:before {
     color: #fff;
     background-color: $info-color;
     border-radius: 4px;
-    margin-right: 0.5em;
     white-space: nowrap;
+    line-height: 1.4;
 }
 
 .pub-track-badge {
@@ -182,14 +184,15 @@ h1:before, .anchor:before {
     padding: 0.18em 0.55em;
     font-size: 0.8em;
     font-weight: 600;
-    color: $info-color;
-    background-color: rgba($info-color, 0.10);
-    border: 1px solid rgba($info-color, 0.28);
+    color: #224b8d;
+    background: rgba(34, 75, 141, 0.10);
+    border: 1px solid rgba(34, 75, 141, 0.28);
     border-radius: 999px;
-    margin-right: 0.5em;
     white-space: nowrap;
+    line-height: 1.4;
 }
 
 .pub-authors-journal {
-    /* To push the rest of the text slightly */
+    margin-left: 0.1em;
+    line-height: 1.5;
 }
