@@ -29,10 +29,10 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
 
 # 🔥 News
+- *2026.08*: &nbsp; My paper *BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving* is accepted by EMNLP 2026 Findings.
 - *2025.06*: &nbsp; My ground-breaking paper *When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact* is accepted by HotCarbon'25. 
 - *2025.03*: &nbsp; I am certified to be a teaching assistant at Purdue by passing OEPT with a score of 50/55.
 - *2025.03*: &nbsp;🎉🎉 I received a $800 Research Award from Purdue’s Institute for a Sustainable Future (ISF).
-- *2024.08*: &nbsp; I attended NSF DESC workshop held at Purdue on Aug 20-21.
 
 # 📝 Preprints
 
@@ -149,7 +149,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 - *2019.09 - 2021.01*, Managing Assistant of Office of Instructional Operations Management in SJTU Academic Affairs Office
 
 # 📝 Academic Services
-- Reviewer of IEEE TPAMI, IEEE TII
+- Reviewer of IEEE TPAMI, IEEE TII, ACM TOMPECS
 - External Reviewer of IEEE TNSE, IEEE TNSM, AAAI 2022, ICDM 2023
 
 # ⚽ Hobbies
