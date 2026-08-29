@@ -39,16 +39,6 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
-    </div>
-    <div class="pub-info">
-      <span class="pub-venue-badge">ArXiv 2026</span>
-      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yi Ding</span>
-    </div>
-  </div>
-
-  <div class="pub-item">
-    <div class="pub-title">
       <a href="https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives">Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives</a>
     </div>
     <div class="pub-info">
@@ -71,6 +61,17 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 # 📄 Publications 
 
 <div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title">
+      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">EMNLP 2026</span>
+      <span class="pub-track-badge">Findings</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yi Ding</span>
+    </div>
+  </div>
+
   <div class="pub-item">
     <div class="pub-title">
       <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[📑<em>Full-length preprint</em>]</a>
