@@ -63,7 +63,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
+      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://github.com/TianyaoShi/BIRDS"><strong>[🧑‍💻Code]</strong></a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">EMNLP 2026</span>
