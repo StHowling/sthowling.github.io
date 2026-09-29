@@ -2,39 +2,52 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
-redirect_from: 
+author_profile: false
+editorial: true
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<section class="hero" id="about-me" aria-labelledby="intro-name">
+  <div>
+    <p class="eyebrow">Sustainable computing · Purdue University</p>
+    <h1 id="intro-name">Tianyao Shi <span class="name-zh" lang="zh">史天尧</span></h1>
+    <p class="hero-statement">I study the environmental footprint of computing—from energy and carbon to biodiversity.</p>
+    <p class="hero-bio">I am a PhD student at Purdue University, where I joined Prof. <a href="https://y-ding.github.io/">Yi Ding</a>'s STYLE group in August 2024. My research focuses on sustainable computing systems and LLM serving.</p>
+    <div class="contact-links" aria-label="Contact and profiles">
+      <a class="primary-link" href="{{ '/pdf/Resume_TianyaoShi_2602.pdf' | relative_url }}">Curriculum vitae <span aria-hidden="true">&nbsp;↗</span></a>
+      <a href="{{ site.author.googlescholar }}">Scholar</a>
+      <a href="mailto:{{ site.author.email }}">Email</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+    </div>
+  </div>
+  <figure class="portrait">
+    <img src="{{ site.author.avatar | relative_url }}" alt="Tianyao Shi" width="210" height="210" fetchpriority="high">
+    <figcaption>West Lafayette, Indiana</figcaption>
+  </figure>
+</section>
 
-<span class='anchor' id='about-me'></span>
+<h2 id="research">Selected research</h2>
 
-I am currently a member of Prof. [Yi Ding](https://y-ding.github.io/)'s STYLE group. I became a PhD student at Purdue University in August 2024. 
+I connect life-cycle assessment and ecological modeling with computer architecture and systems research to quantify computing's broader environmental impact, including biodiversity loss. My work explores energy- and carbon-efficient data center operation and LLM serving.
 
-I obtained my Bachelor's degree of Computer Science and Master's degree in Electronic and Information Engineering from Shanghai Jiao Tong University in June 2021 and March 2024, respectively.
+{% include research-highlights.html %}
 
-My research interest focuses on **Suistainability of Computing**, e.g., Energy- and (Beyond) Carbon-Efficient Data Center Operation and LLM Serving. I have been establishing the quantification model for evaluating the broader environmental impact of computing systems, i.e., **biodiversity loss**,  by integrating LCA methodology and ecological modeling into architectural / system design, performance evaluation, and optimization.
+<h2 id="news"><span class="anchor" id="-news" aria-hidden="true"></span>Recent news</h2>
 
-
-[[CV]](../pdf/Resume_TianyaoShi_2602.pdf) 
-
-
-
-# 🔥 News
-- *2026.08*: &nbsp; My paper *BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving* is accepted by EMNLP 2026 Findings.
-- *2025.06*: &nbsp; My ground-breaking paper *When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact* is accepted by HotCarbon'25. 
-- *2025.03*: &nbsp; I am certified to be a teaching assistant at Purdue by passing OEPT with a score of 50/55.
-- *2025.03*: &nbsp;🎉🎉 I received a $800 Research Award from Purdue’s Institute for a Sustainable Future (ISF).
-
-# 📝 Preprints
+<ul class="news-list">
+  <li><time datetime="2026-08">Aug 2026</time><p><em>BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</em> accepted to EMNLP 2026 Findings.</p></li>
+  <li><time datetime="2025-06">Jun 2025</time><p><em>When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</em> accepted to HotCarbon 2025.</p></li>
+</ul>
+<details>
+  <summary>Earlier updates</summary>
+  <ul class="news-list">
+    <li><time datetime="2025-03">Mar 2025</time><p>Certified as a teaching assistant at Purdue after passing the OEPT with a score of 50/55.</p></li>
+    <li><time datetime="2025-03">Mar 2025</time><p>Received an $800 Research Award from Purdue's Institute for a Sustainable Future (ISF).</p></li>
+  </ul>
+</details>
+<h2 id="preprints"><span class="anchor" id="-preprints" aria-hidden="true"></span>Preprints</h2>
 
 <div class="pub-list">
   <div class="pub-item">
@@ -68,37 +81,48 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
   </div>
 </div>
 
-# 📄 Publications 
+<h2 id="publications"><span class="anchor" id="-publications" aria-hidden="true"></span>Publications</h2>
 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://tianyaoshi.github.io/BIRDS/"><strong>[Project Page]</strong></a> <a href="https://github.com/TianyaoShi/BIRDS"><strong>[🧑‍💻Code]</strong></a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
+      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">EMNLP 2026</span>
       <span class="pub-track-badge">Findings</span>
       <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yi Ding</span>
     </div>
+    <div class="resource-links">
+      <a href="https://tianyaoshi.github.io/BIRDS/">Project <span aria-hidden="true">↗</span></a>
+      <a href="https://github.com/TianyaoShi/BIRDS">Code <span aria-hidden="true">↗</span></a>
+      <a href="https://gist.science/paper/2605.27480#gist">Summary <span aria-hidden="true">↗</span></a>
+    </div>
   </div>
 
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a> <a href="https://arxiv.org/pdf/2412.20322">[📑<em>Full-length preprint</em>]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11230830/">Disaggregated Speculative Decoding for Carbon-Efficient LLM Serving</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">CAL 2025</span>
       <span class="pub-authors-journal"><strong>Tianyao Shi*</strong>, Yanran Wu*, Sihang Liu, Yi Ding, IEEE Computer Architecture Letters 24 (2), 369-372.</span>
     </div>
+    <div class="resource-links">
+      <a href="https://arxiv.org/pdf/2412.20322">Full-length preprint <span aria-hidden="true">↗</span></a>
+    </div>
   </div>
 
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2506.20442">When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</a> <a href="https://github.com/TianyaoShi/FABRIC"><strong>[🧑‍💻Code]</strong></a>
+      <a href="https://arxiv.org/abs/2506.20442">When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">HotCarbon 2025</span>
       <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Ritbik Kumar, Inez Hua, Yi Ding, ACM SIGEnergy Energy Informatics Review (EIR), Volume 5 Issue 2, pp. 34-40.</span>
+    </div>
+    <div class="resource-links">
+      <a href="https://github.com/TianyaoShi/FABRIC">Code <span aria-hidden="true">↗</span></a>
     </div>
   </div>
 
@@ -114,11 +138,14 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/pdf/2307.08949.pdf">Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud</a> <a href="https://github.com/StHowling/Alioth"><strong>[🧑‍💻Code]</strong></a>
+      <a href="https://arxiv.org/pdf/2307.08949.pdf">Alioth: A Machine Learning Based Interference-Aware Performance Monitor for Multi-Tenancy Applications in Public Cloud</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">IPDPS 2023</span>
       <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Yingxuan Yang, Yunlong Cheng, Xiaofeng Gao, Zhen Fang, Yongqiang Yang, pp. 908-917.</span>
+    </div>
+    <div class="resource-links">
+      <a href="https://github.com/StHowling/Alioth">Code <span aria-hidden="true">↗</span></a>
     </div>
   </div>
 
@@ -143,25 +170,44 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
   </div>
 </div>
 
-# 🎖 Honors and Awards
+<h2 id="education">Education</h2>
+
+- **Purdue University** · PhD student, August 2024–present
+- **Shanghai Jiao Tong University** · Master's degree in Electronic and Information Engineering, March 2024
+- **Shanghai Jiao Tong University** · Bachelor's degree in Computer Science, June 2021
+
+<h2 id="honors"><span class="anchor" id="-honors-and-awards" aria-hidden="true"></span>Honors &amp; awards</h2>
+
 - *2025.03* &nbsp; ISF Research Award of Purdue
-- *2023.11* &nbsp; Excellent Graduate Scholarship of SJTU 
+- *2023.11* &nbsp; Excellent Graduate Scholarship of SJTU
 - *2021 ~ 2023* &nbsp; First-Class Graduate Grant of SJTU
 - *2021.06* &nbsp; Outstanding Graduate of SJTU [[Certificate]](../images/Q20230417161501.jpg)
-- *2021.06* &nbsp; Excellent Bachelor's Thesis of SJTU 
+- *2021.06* &nbsp; Excellent Bachelor's Thesis of SJTU
 - *2020.10* &nbsp; No. 95 of LeetCode Cup Team Coding Contest (LCCUP’2020) (top 3.6% of 2575 teams) [[Result Screenshot]](../images/Q20230417161021.jpg)
 - *2018.05* &nbsp; Meritorious Winner of Mathematical Contest In Modeling (MCM) (top 9.7% of 26062 teams) [[Certificate]](../pdf/73043.pdf)
 
-# 💻 Work Experience
+<h2 id="experience"><span class="anchor" id="-work-experience" aria-hidden="true"></span>Experience</h2>
+
 - *2026.01 - 2026.05*, Teaching Assistant of **ECE20875: Python for Data Science** at Purdue University
 - *2022.03 – 2022.09*, Teaching Assistant of [**Introduction to Computer Science (“Xuesen Challenge Program”)**](https://news.sjtu.edu.cn/mtjj/20220306/167909.html) at SJTU
 - *2020.09 - 2020.12*, Teaching Assistant of [**Algorithm Design and Analysis (CS7310)**](http://anl.sjtu.edu.cn/gao-xf/resources/projectDesc/CS7310-2020/Project-Data-AnalyticJobScheduling.pdf/hehe) at SJTU
 - *2019.09 - 2021.01*, Managing Assistant of Office of Instructional Operations Management in SJTU Academic Affairs Office
 
-# 📝 Academic Services
+<h2 id="service"><span class="anchor" id="-academic-services" aria-hidden="true"></span>Academic service</h2>
+
 - Reviewer of IEEE TPAMI, IEEE TII, ACM TOMPECS
 - External Reviewer of IEEE TNSE, IEEE TNSM, AAAI 2022, ICDM 2023
 
-# ⚽ Hobbies
+<h2 id="beyond-research"><span class="anchor" id="-hobbies" aria-hidden="true"></span>Beyond research</h2>
 
-I have always been a soccer fan, as a life-long supporter of Taishan FC and a supporter of FC Barcelona since 2011. I was a refree of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [certificate of appointment](../images/IMG_20231119_222610.jpg) and [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
+I have always been a soccer fan, as a life-long supporter of Taishan FC and a supporter of FC Barcelona since 2011. I was a referee of SJTU Football Association during my undergraduate years and Vice Chairman of SJTUFA during 2019-2020. (See this [certificate of appointment](../images/IMG_20231119_222610.jpg) and [report](https://mp.weixin.qq.com/s/3d9hQbrdfmXSLzk2y8Y_2w) in Chinese)
+
+<footer class="site-footer">
+  <span>Tianyao Shi · Purdue University</span>
+  <div class="footer-links" aria-label="Additional profiles">
+    <a href="{{ site.author.dblp }}">DBLP</a>
+    <a href="{{ site.author.orcid }}">ORCID</a>
+    <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+    <a href="#about-me">Back to top ↑</a>
+  </div>
+</footer>

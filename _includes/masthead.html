@@ -1,3 +1,15 @@
+{% if page.editorial %}
+<header class="site-header">
+  <nav class="site-navigation" aria-label="Main navigation">
+    <a class="site-name" href="{{ '/#about-me' | relative_url }}">Tianyao Shi<span aria-hidden="true">.</span></a>
+    <ul>
+      {% for link in site.data.navigation.main %}
+      <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+{% else %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -14,3 +26,4 @@
     </div>
   </div>
 </div>
+{% endif %}

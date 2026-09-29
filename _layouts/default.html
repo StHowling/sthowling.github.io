@@ -9,7 +9,9 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="{% if page.editorial %}editorial{% endif %}">
+
+    {% if page.editorial %}<a class="skip-link" href="#main">Skip to content</a>{% endif %}
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
