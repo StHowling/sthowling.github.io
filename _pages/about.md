@@ -39,6 +39,16 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
+      <a href="https://arxiv.org/abs/2609.35569">Beyond Energy: When Sustainability Dimensions Reshape LLM Serving Decisions</a>
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">ArXiv 2026</span>
+      <span class="pub-authors-journal"><strong>Tianyao Shi</strong>, Xipeng Shen, Yi Ding</span>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title">
       <a href="https://www.techrxiv.org/users/1024518/articles/1384487-sustainability-of-computing-systems-a-survey-from-environmental-impact-perspectives">Sustainability of Computing Systems: A Survey from Environmental Impact Perspectives</a>
     </div>
     <div class="pub-info">
@@ -63,7 +73,7 @@ My research interest focuses on **Suistainability of Computing**, e.g., Energy- 
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://github.com/TianyaoShi/BIRDS"><strong>[🧑‍💻Code]</strong></a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
+      <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a> <a href="https://tianyaoshi.github.io/BIRDS/"><strong>[Project Page]</strong></a> <a href="https://github.com/TianyaoShi/BIRDS"><strong>[🧑‍💻Code]</strong></a> <a href="https://gist.science/paper/2605.27480#gist">[🪶TL;DR by Gist.Science]</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">EMNLP 2026</span>
