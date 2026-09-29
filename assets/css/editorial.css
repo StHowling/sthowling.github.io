@@ -32,10 +32,10 @@
 .editorial .page__content #about-me { margin-top: 0; }
 .editorial h1::before, .editorial .anchor::before, .editorial .page__content #about-me::before { display: none; }
 .editorial h1, .editorial h2, .editorial h3 { color: var(--ink); }
-.editorial .page__content h1 { margin: 0 0 14px; padding: 0; border: 0; font: 400 clamp(40px, 5.3vw, 64px)/1.12 Georgia, "Times New Roman", serif; letter-spacing: -1.8px; }
+.editorial .page__content h1 { margin: 0 0 14px; padding: 0; border: 0; font: 400 clamp(30px, 3.5vw, 36px)/1.3 Georgia, "Times New Roman", serif; letter-spacing: -.5px; }
 .hero { display: grid; grid-template-columns: minmax(0, 1fr) 210px; gap: 72px; align-items: start; padding: 76px 0 56px; }
 .hero .eyebrow { margin-bottom: 20px; }
-.hero .name-zh { display: inline-block; font-family: "Songti SC", SimSun, serif; font-size: .47em; font-weight: 400; letter-spacing: .08em; color: var(--muted); vertical-align: middle; }
+.hero .name-zh { display: inline-block; font-family: "Songti SC", SimSun, serif; font-size: 1em; font-weight: inherit; letter-spacing: .02em; color: inherit; vertical-align: baseline; }
 .hero .hero-statement { font: 400 clamp(23px, 3vw, 31px)/1.45 Georgia, "Times New Roman", serif; margin: 22px 0; max-width: 29em; letter-spacing: -.3px; }
 .hero .hero-bio { color: var(--muted); max-width: 65ch; margin-bottom: 22px; }
 .portrait { display: block; margin: 8px 0 0; }
@@ -100,7 +100,6 @@
   .portrait img { width: 100px; height: 100px; }
   .portrait figcaption { display: none; }
   .hero .eyebrow { margin-bottom: 14px; }
-  .editorial .page__content h1 { font-size: 40px; letter-spacing: -1px; }
   .hero .hero-statement { font-size: 25px; }
   .editorial .page__content > h2 { margin-top: 44px; font-size: 27px; }
   .research-card { padding: 23px; }

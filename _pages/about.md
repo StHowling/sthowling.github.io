@@ -13,7 +13,7 @@ redirect_from:
   <div>
     <p class="eyebrow">Sustainable computing · Purdue University</p>
     <h1 id="intro-name">Tianyao Shi <span class="name-zh" lang="zh">史天尧</span></h1>
-    <p class="hero-statement">I study the environmental footprint of computing—from energy and carbon to biodiversity.</p>
+    <p class="hero-statement">I study the environmental impact of computing—from energy and carbon to biodiversity.</p>
     <p class="hero-bio">I am a PhD student at Purdue University, where I joined Prof. <a href="https://y-ding.github.io/">Yi Ding</a>'s STYLE group in August 2024. My research focuses on sustainable computing systems and LLM serving.</p>
     <div class="contact-links" aria-label="Contact and profiles">
       <a class="primary-link" href="{{ '/pdf/Resume_TianyaoShi_2602.pdf' | relative_url }}">Curriculum vitae <span aria-hidden="true">&nbsp;↗</span></a>
