@@ -59,6 +59,7 @@
 .editorial .page__content > h2 { font: 400 30px/1.25 Georgia, "Times New Roman", serif; letter-spacing: -.5px; margin: 64px 0 26px; padding-top: 27px; border-top: 1px solid var(--line); }
 .editorial .page__content > h2:first-of-type { margin-top: 0; }
 .editorial .page__content > p { max-width: 72ch; color: var(--muted); }
+.editorial .page__content > #beyond-research + p { max-width: none; }
 .research-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
 .research-card { padding: 28px; border: 1px solid var(--line); border-top: 3px solid var(--accent); border-radius: 3px; background: #f0f3eb; display: flex; flex-direction: column; }
 .research-card .eyebrow { margin: 0 0 22px; }
@@ -79,7 +80,7 @@
 .editorial .pub-list { margin-bottom: 0; }
 .editorial .pub-item { padding: 23px 0; margin: 0; border-bottom: 1px solid var(--line); }
 .editorial .pub-item:first-child { padding-top: 0; }
-.editorial .pub-title { font-size: 17px; line-height: 1.5; font-weight: 600; max-width: 78ch; margin-bottom: 9px; }
+.editorial .pub-title { font-size: 17px; line-height: 1.5; font-weight: 600; margin-bottom: 9px; }
 .editorial .pub-title a:first-child { color: var(--ink); text-decoration: none; transition: none; }
 .editorial .pub-title a:hover { color: var(--accent); text-decoration: underline; }
 .editorial .pub-info { margin: 0; gap: 6px; align-items: baseline; }
@@ -87,7 +88,8 @@
 .editorial .pub-authors-journal { flex-basis: 100%; margin: 4px 0 0; font-size: 14px; line-height: 1.7; color: var(--muted); }
 .editorial .pub-authors-journal strong { font-weight: 600; color: var(--ink); }
 .pub-item .resource-links { margin-top: 9px; }
-.editorial .page__content > ul:not(.news-list) { max-width: 80ch; padding-left: 20px; }
+/* Lists use the full content column; prose retains its reading-width limit. */
+.editorial .page__content > ul:not(.news-list) { padding-left: 20px; }
 .editorial .page__content > ul:not(.news-list) li { font-size: 15px; padding-left: 5px; margin-bottom: 12px; }
 .editorial .page__content > ul li::marker { color: var(--accent); }
 .site-footer { border-top: 1px solid var(--line); margin-top: 64px; padding-top: 22px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; font-size: 13px; color: var(--muted); }
