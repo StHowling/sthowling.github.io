@@ -37,6 +37,7 @@ I connect life-cycle assessment and ecological modeling with computer architectu
 <h2 id="news"><span class="anchor" id="-news" aria-hidden="true"></span>Recent news</h2>
 
 <ul class="news-list">
+  <li><time datetime="2026-10">Oct 2026</time><p><em>An Interference-Aware QoS Violation Alleviation Framework for Multi-Tenancy Public Clouds</em> accepted to IEEE Transactions on Parallel and Distributed Systems (TPDS).</p></li>
   <li><time datetime="2026-08">Aug 2026</time><p><em>BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</em> accepted to EMNLP 2026 Findings.</p></li>
   <li><time datetime="2025-06">Jun 2025</time><p><em>When Servers Meet Species: A Fab-to-Grave Lens on Computing's Biodiversity Impact</em> accepted to HotCarbon 2025.</p></li>
 </ul>
@@ -84,6 +85,17 @@ I connect life-cycle assessment and ecological modeling with computer architectu
 <h2 id="publications"><span class="anchor" id="-publications" aria-hidden="true"></span>Publications</h2>
 
 <div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title">
+      An Interference-Aware QoS Violation Alleviation Framework for Multi-Tenancy Public Clouds
+    </div>
+    <div class="pub-info">
+      <span class="pub-venue-badge">TPDS</span>
+      <span class="pub-track-badge">Accepted</span>
+      <span class="pub-authors-journal">Yunlong Cheng, Hongji Dong, <strong>Tianyao Shi</strong>, Xiaofeng Gao, Guihai Chen. IEEE Transactions on Parallel and Distributed Systems.</span>
+    </div>
+  </div>
+
   <div class="pub-item">
     <div class="pub-title">
       <a href="https://arxiv.org/abs/2605.27480">BIRDS: Characterizing and Understanding Biodiversity Impact of Large Language Model Serving</a>
