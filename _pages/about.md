@@ -87,7 +87,7 @@ I connect life-cycle assessment and ecological modeling with computer architectu
 <div class="pub-list">
   <div class="pub-item">
     <div class="pub-title">
-      An Interference-Aware QoS Violation Alleviation Framework for Multi-Tenancy Public Clouds
+       <a href="https://www.computer.org/csdl/journal/td/5555/01/11719242/2kfWz1DwwuI">An Interference-Aware QoS Violation Alleviation Framework for Multi-Tenancy Public Clouds</a>
     </div>
     <div class="pub-info">
       <span class="pub-venue-badge">TPDS</span>
